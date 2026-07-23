@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0067-add-binary) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

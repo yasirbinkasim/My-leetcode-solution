@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

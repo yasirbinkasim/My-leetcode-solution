@@ -156,15 +156,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0994-rotting-oranges](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0994-rotting-oranges) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0994-rotting-oranges) |
+## Depth-First Search
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->

@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0112-path-sum) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0112-path-sum) |
 | [0994-rotting-oranges](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0994-rotting-oranges) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0112-path-sum) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |

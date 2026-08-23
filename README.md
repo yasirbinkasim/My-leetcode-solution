@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0242-valid-anagram) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0503-next-greater-element-ii) |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0523-continuous-subarray-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

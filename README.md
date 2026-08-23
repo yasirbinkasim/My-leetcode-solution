@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0503-next-greater-element-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
@@ -247,4 +249,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0067-add-binary) |
 | [0523-continuous-subarray-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0523-continuous-subarray-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0739-daily-temperatures) |
+| [0973-k-closest-points-to-origin](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0994-rotting-oranges) |
 ## Trie
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0242-valid-anagram) |
+| [0973-k-closest-points-to-origin](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -253,12 +256,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

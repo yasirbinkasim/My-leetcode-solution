@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 ## Stack
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0901-online-stock-span) |
 ## Tree
 |  |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect

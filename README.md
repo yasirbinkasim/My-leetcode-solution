@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0344-reverse-string) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0099-recover-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Lifting
 |  |

@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0143-reorder-list) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0242-valid-anagram) |
@@ -323,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0046-permutations) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

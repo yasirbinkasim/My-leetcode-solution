@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0973-k-closest-points-to-origin](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->

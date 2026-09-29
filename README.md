@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0242-valid-anagram) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |

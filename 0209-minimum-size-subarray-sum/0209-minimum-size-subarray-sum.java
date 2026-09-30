@@ -8,7 +8,8 @@ class Solution {
             sum = sum + nums[end];
 
             while(sum >= target){
-                minLength = Math.min(minLength, end - start +1);
+                int currentWindowLength = end-start+1;
+                minLength = Math.min(minLength, currentWindowLength);
                 sum = sum - nums[start];
                 start++;
             }

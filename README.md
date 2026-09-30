@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0994-rotting-oranges) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Trie
 |  |

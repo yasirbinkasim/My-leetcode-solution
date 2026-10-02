@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0067-add-binary) |
 | [0523-continuous-subarray-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [1763-longest-nice-substring](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Array
 |  |
 | ------- |
@@ -406,4 +408,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/2269-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1763-longest-nice-substring](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Math
 |  |
 | ------- |
@@ -99,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0067-add-binary) |
 | [1763-longest-nice-substring](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1763-longest-nice-substring) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Simulation
 |  |
 | ------- |
@@ -411,4 +415,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->

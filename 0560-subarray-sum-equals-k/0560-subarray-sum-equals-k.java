@@ -8,9 +8,9 @@ class Solution {
         int sum = 0;
         int count = 0;
 
-        for (int num : nums) {
+        for (int i = 0; i < nums.length; i++) {
 
-            sum += num;
+            sum += nums[i];
 
             int required = sum - k;
 

@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1763-longest-nice-substring](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |

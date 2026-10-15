@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0704-binary-search) |
 ## Binary Lifting
 |  |
 | ------- |

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0268-missing-number) |
 | [1763-longest-nice-substring](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/1763-longest-nice-substring) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Simulation
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
@@ -331,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/yasirbinkasim/My-leetcode-solution/tree/master/0704-binary-search) |
 ## Binary Lifting
 |  |

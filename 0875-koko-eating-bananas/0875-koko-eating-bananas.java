@@ -6,7 +6,7 @@ class Solution {
             high = Math.max(high, pile);
         }
         while (low < high) {
-            int mid = low + (high - low) / 2;
+            int mid = (low + high)/ 2;
             if (canEatAll(piles, mid, h)) {
                 high = mid;
             } else {
